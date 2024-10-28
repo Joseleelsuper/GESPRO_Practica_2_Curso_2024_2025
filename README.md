@@ -3,7 +3,6 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositorio.
 
-Incluid debajo el nombre de los miembros del grupo:
+Miembros del grupo:
 
-JOSÉ GALLARDO CABALLERO Y
-TATIANA BEJENARU FOROSTENCO
+José Gallardo Caballero y Tatiana Bejenaru Forostenco
