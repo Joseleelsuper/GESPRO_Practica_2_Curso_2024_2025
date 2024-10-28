@@ -3,6 +3,11 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 
 Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositorio.
 
-Miembros del grupo:
+**Miembros del grupo:**
 
-José Gallardo Caballero y Tatiana Bejenaru Forostenco
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/Joseleelsuper"><img src="https://github.com/Joseleelsuper.png" width="100px;" alt=""/><br /><sub><b>José Gallardo Caballero</b></sub></a></td>
+        <td align="center"><a href="https://github.com/tbf1003"><img src="https://github.com/tbf1003.png" width="100px;" alt=""/><br /><sub><b>Tatiana Bejenaru Forostenco</b></sub></a></td>
+    </tr>
+</table>
