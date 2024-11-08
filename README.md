@@ -13,7 +13,7 @@ Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el 
 ## Guía de Github-Zenhub
 
 [![Zenhub](https://img.shields.io/badge/Zenhub-Manage%20your%20projects-blue)](https://www.zenhub.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository%20Management-lightgrey)](https://github.com/Joseleelsuper/GESPRO_Practica_2_Curso_2024_2025)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository%20Management-darkgreen)](https://github.com/Joseleelsuper/GESPRO_Practica_2_Curso_2024_2025)
 
 Para empezar, se debe de crear el repositorio haciendo un fork al [repositorio original](https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025) del profesor.
 ![Fork](assets/Fork.jpg)
@@ -47,4 +47,3 @@ En la captura siguiente se ven las Epics, User Storys y Tasks creadas:
         <td align="center"><a href="https://github.com/marwan-03-ux"><img src="https://github.com/marwan-03-ux.png" width="100px;" alt=""/><br /><sub><b>Marwan Al Hadaddin</b></sub></a></td>
     </tr>
 </table>
-
