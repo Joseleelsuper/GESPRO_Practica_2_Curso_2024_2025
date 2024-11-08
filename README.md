@@ -21,6 +21,9 @@ De manera análoga, se configura Zenhub. Creamos primero un Workspace, invitamos
 ![Zenhub](assets/Zenhub.jpg)
 ![Colaborades-Zenhub](assets/Colaboradores-Zenhub.jpg)
 
+> [!TIP]
+> Poner el Workspace en modo **"Privado"** para evitar que tus compañeros de clase se unan al proyecto y Zenhub te quite la posibilidad de trabajar en el mismo.
+
 
 ### Habilitar Issues
 Para este proyecto, es necesario habilitar los Issues. Para ello, se activa la casilla de Issues en la configuración del repositorio.
