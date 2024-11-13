@@ -82,6 +82,8 @@ En la captura siguiente se ven las Epics, User Storys y Tasks creadas:
 ## Comienzo de la 2da Release
 
 ## Tareas de la 2da Release en progreso y filtradas por algún topic
+![Location](assets/Location.jpg)
+![Setup](assets/Setup.jpg)
 
 ## Imagen de conversación en dos tareas
 
