@@ -59,22 +59,28 @@ En la captura siguiente se ven las Epics, User Storys y Tasks creadas:
 
 ### Tasks
 
+Las tasks son las issues que se crean para dividir el trabajo entre lo mimebros del equipo. Se pueden asignar a un miembro del equipo, añadir etiquetas, descripción, comentarios, etc. Cada tarea tiene un coste medido utilizando la escala de Fibonacci.
 ![Tasks](assets/Tasks.jpg)
 
 ### Epics
 
+Las Epics son las issues que se crean para dividir el trabajo en grandes bloques. 
+Se crean para dividir las tareas según su temática.
 ![Epics](assets/Epics.jpg)
 
 ### User Storys
 
+Las User Storys son las issues que se crean para dividir el trabajo en bloques más pequeños que las Epics. Normalmente son utilizadas para añadir una descripción detallada sobre lo que pide el usuario. Estas se dividen en las tareas que se deben de realizar para completar la User Story.
 ![User-Storys](assets/User%20Storys.jpg)
 
 ## Tareas de 1er Release en el Sprint Backlog
 
+El Sprint Backlog es el lugar donde se encuentran las tareas que se van a realizar en el sprint actual. En la captura siguiente se ven las tareas de la 1er Release en el Sprint Backlog.
 ![Sprint Backlog](assets/sprintBacklog.png)
 
 ## Tareas de 1er Release en progreso
 
+El filtro por "In Progress" nos muestra las tareas que se están realizando en el momento. En la captura siguiente se ven las tareas de la 1er Release en progreso.
 ![Release 1 Progress](assets/release1-progress.png)
 
 ## Cierre de 1er Release
@@ -82,10 +88,16 @@ En la captura siguiente se ven las Epics, User Storys y Tasks creadas:
 ## Comienzo de la 2da Release
 
 ## Tareas de la 2da Release en progreso y filtradas por algún topic
+
+Para filtrar las tareas por algún topic, se selecciona el topic deseado en la pestaña de "Filter by" y se elije.
 ![Location](assets/Location.jpg)
 ![Setup](assets/Setup.jpg)
 
 ## Imagen de conversación en dos tareas
+
+Es importante resolver las dudas que puedan tener los miembros del equipo con respecto a tareas que ellos no hayan realizado. En la captura siguiente se ve una conversación entre dos tareas.
+![TaskChat1](assets/image.png)
+![TaskChat2](assets/image-1.png)
 
 ## Miembros del grupo:
 
