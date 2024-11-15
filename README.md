@@ -85,7 +85,16 @@ El filtro por "In Progress" nos muestra las tareas que se están realizando en e
 
 ## Cierre de 1er Release
 
+Para cerrar la 1ª Release cerramos todas las tareas asociadas a esta. Después, desde milestones cerramos la release 1.
+
+![Release 1 Cierre](assets/cierreRelease1.JPG)
+
+Como se puede ver en la imagen, la release ahora aparece como Closed con el 100% de las tareas completas.
+
 ## Comienzo de la 2da Release
+
+Para empezar la 2ª Release movemos todas las tareas asociadas a esta al Sprint Backlog, como se puede ver en la siguiente imagen.
+![Release 2 inicio](assets/ComienzoRelease2.JPG)
 
 ## Tareas de la 2da Release en progreso y filtradas por algún topic
 
